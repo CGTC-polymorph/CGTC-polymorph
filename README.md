@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CGTC-polymorph
+- 👀 I’m interested in automation / dataprocessing / challanges
+- 🌱 I’m currently learning Python
